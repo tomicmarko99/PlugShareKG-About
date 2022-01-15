@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.c1 {
+  padding: 20px;
+}
+
+.textBox-About {
+  padding: 20px 0;
+}
+
+.imgBox-About {
+  padding: 20px 0;
+}
+
+.goalBox-About {
+  padding: 20px 0;
+}
+
+.cardBox-About {
+  padding: 20px 0;
+}
